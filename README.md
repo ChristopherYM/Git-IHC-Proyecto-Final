@@ -1,4 +1,4 @@
-#Interaccion Humano Computador
+# Interaccion Humano Computador
  
  Este es un juego creado para el curso de IHC
  
