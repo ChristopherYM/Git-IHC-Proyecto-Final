@@ -3,7 +3,7 @@
  Este es un juego creado para el curso de IHC
  
  Integrantes.
- Christopher Yquira Miranda
+ Christopher Yquira Miranda,
  Edher Cerdan Berlanga
  
  Video demostrativo.
